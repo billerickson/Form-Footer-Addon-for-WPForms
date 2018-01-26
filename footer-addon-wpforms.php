@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Form Footer Addon for WPForms
  * Plugin URI:  https://www.github.com/billerickson/Form-Footer-Addon-for-WPForms
- * Description: Allows you to specify form footer content to appear below the form.
+ * Description: Specify a form footer to appear below your contact form
  * Version:     1.0.0
  * Author:      Bill Erickson
  * Author URI:  https://www.billerickson.net
